@@ -1,0 +1,768 @@
+Notes,Census Region,Census Region Code,Sex,Sex Code,Year,Year Code,Race,Race Code,Deaths,Population,Crude Rate
+,Census Region 1: Northeast,CENS-R1,Female,F,1999,1999,American Indian or Alaska Native,1002-5,10,106823,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,1999,1999,Asian or Pacific Islander,A-PI,72,1133752,6.4
+,Census Region 1: Northeast,CENS-R1,Female,F,1999,1999,Black or African American,2054-5,1094,3597647,30.4
+,Census Region 1: Northeast,CENS-R1,Female,F,1999,1999,White,2106-3,5869,22733874,25.8
+,Census Region 1: Northeast,CENS-R1,Female,F,2000,2000,American Indian or Alaska Native,1002-5,17,114584,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2000,2000,Asian or Pacific Islander,A-PI,77,1174043,6.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2000,2000,Black or African American,2054-5,1121,3633620,30.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2000,2000,White,2106-3,6030,22774804,26.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2001,2001,American Indian or Alaska Native,1002-5,14,123794,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2001,2001,Asian or Pacific Islander,A-PI,74,1248135,5.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2001,2001,Black or African American,2054-5,1201,3677182,32.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2001,2001,White,2106-3,6037,22793277,26.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2002,2002,American Indian or Alaska Native,1002-5,10,132017,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2002,2002,Asian or Pacific Islander,A-PI,94,1307487,7.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2002,2002,Black or African American,2054-5,1121,3708651,30.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2002,2002,White,2106-3,5919,22791296,26
+,Census Region 1: Northeast,CENS-R1,Female,F,2003,2003,American Indian or Alaska Native,1002-5,13,140411,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2003,2003,Asian or Pacific Islander,A-PI,94,1362860,6.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2003,2003,Black or African American,2054-5,1190,3737636,31.8
+,Census Region 1: Northeast,CENS-R1,Female,F,2003,2003,White,2106-3,5893,22778035,25.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2004,2004,Asian or Pacific Islander,A-PI,104,1414204,7.4
+,Census Region 1: Northeast,CENS-R1,Female,F,2004,2004,Black or African American,2054-5,1117,3759294,29.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2004,2004,White,2106-3,5713,22729074,25.1
+,Census Region 1: Northeast,CENS-R1,Female,F,2005,2005,American Indian or Alaska Native,1002-5,14,156939,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2005,2005,Asian or Pacific Islander,A-PI,93,1466738,6.3
+,Census Region 1: Northeast,CENS-R1,Female,F,2005,2005,Black or African American,2054-5,1158,3777243,30.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2005,2005,White,2106-3,5591,22646513,24.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2006,2006,American Indian or Alaska Native,1002-5,14,165263,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2006,2006,Asian or Pacific Islander,A-PI,101,1518780,6.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2006,2006,Black or African American,2054-5,1059,3801357,27.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2006,2006,White,2106-3,5206,22587626,23
+,Census Region 1: Northeast,CENS-R1,Female,F,2007,2007,American Indian or Alaska Native,1002-5,11,173762,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2007,2007,Asian or Pacific Islander,A-PI,114,1573459,7.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2007,2007,Black or African American,2054-5,1061,3826880,27.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2007,2007,White,2106-3,5095,22554095,22.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2008,2008,American Indian or Alaska Native,1002-5,14,183463,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2008,2008,Asian or Pacific Islander,A-PI,111,1631788,6.8
+,Census Region 1: Northeast,CENS-R1,Female,F,2008,2008,Black or African American,2054-5,1043,3863355,27
+,Census Region 1: Northeast,CENS-R1,Female,F,2008,2008,White,2106-3,4846,22553033,21.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2009,2009,American Indian or Alaska Native,1002-5,15,194000,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2009,2009,Asian or Pacific Islander,A-PI,123,1689181,7.3
+,Census Region 1: Northeast,CENS-R1,Female,F,2009,2009,Black or African American,2054-5,985,3908465,25.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2009,2009,White,2106-3,4656,22567603,20.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2010,2010,Asian or Pacific Islander,A-PI,108,1730687,6.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2010,2010,Black or African American,2054-5,987,3942465,25
+,Census Region 1: Northeast,CENS-R1,Female,F,2010,2010,White,2106-3,4651,22573497,20.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2011,2011,American Indian or Alaska Native,1002-5,19,203504,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2011,2011,Asian or Pacific Islander,A-PI,131,1777053,7.4
+,Census Region 1: Northeast,CENS-R1,Female,F,2011,2011,Black or African American,2054-5,1157,3975439,29.1
+,Census Region 1: Northeast,CENS-R1,Female,F,2011,2011,White,2106-3,4891,22566674,21.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2012,2012,American Indian or Alaska Native,1002-5,12,207010,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2012,2012,Asian or Pacific Islander,A-PI,142,1842315,7.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2012,2012,Black or African American,2054-5,1073,4013131,26.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2012,2012,White,2106-3,4771,22565698,21.1
+,Census Region 1: Northeast,CENS-R1,Female,F,2013,2013,American Indian or Alaska Native,1002-5,23,210274,10.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2013,2013,Asian or Pacific Islander,A-PI,123,1898983,6.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2013,2013,Black or African American,2054-5,1110,4047969,27.4
+,Census Region 1: Northeast,CENS-R1,Female,F,2013,2013,White,2106-3,4953,22541834,22
+,Census Region 1: Northeast,CENS-R1,Female,F,2014,2014,Asian or Pacific Islander,A-PI,130,1983420,6.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2014,2014,Black or African American,2054-5,1144,4100002,27.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2014,2014,White,2106-3,4834,22506245,21.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2015,2015,American Indian or Alaska Native,1002-5,16,215716,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2015,2015,Asian or Pacific Islander,A-PI,173,2054427,8.4
+,Census Region 1: Northeast,CENS-R1,Female,F,2015,2015,Black or African American,2054-5,1058,4130918,25.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2015,2015,White,2106-3,4767,22457574,21.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2016,2016,American Indian or Alaska Native,1002-5,11,217948,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2016,2016,Asian or Pacific Islander,A-PI,157,2081275,7.5
+,Census Region 1: Northeast,CENS-R1,Female,F,2016,2016,Black or African American,2054-5,1119,4147716,27
+,Census Region 1: Northeast,CENS-R1,Female,F,2016,2016,White,2106-3,4612,22360010,20.6
+,Census Region 1: Northeast,CENS-R1,Female,F,2017,2017,American Indian or Alaska Native,1002-5,13,221233,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2017,2017,Asian or Pacific Islander,A-PI,160,2155130,7.4
+,Census Region 1: Northeast,CENS-R1,Female,F,2017,2017,Black or African American,2054-5,1099,4193445,26.2
+,Census Region 1: Northeast,CENS-R1,Female,F,2017,2017,White,2106-3,4634,22370467,20.7
+,Census Region 1: Northeast,CENS-R1,Female,F,2018,2018,American Indian or Alaska Native,1002-5,16,221890,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2018,2018,Asian or Pacific Islander,A-PI,193,2133111,9
+,Census Region 1: Northeast,CENS-R1,Female,F,2018,2018,Black or African American,2054-5,1140,4172657,27.3
+,Census Region 1: Northeast,CENS-R1,Female,F,2018,2018,White,2106-3,4639,22222991,20.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2019,2019,American Indian or Alaska Native,1002-5,17,223076,Unreliable
+,Census Region 1: Northeast,CENS-R1,Female,F,2019,2019,Asian or Pacific Islander,A-PI,199,2142824,9.3
+,Census Region 1: Northeast,CENS-R1,Female,F,2019,2019,Black or African American,2054-5,1161,4173672,27.8
+,Census Region 1: Northeast,CENS-R1,Female,F,2019,2019,White,2106-3,4648,22139556,21
+,Census Region 1: Northeast,CENS-R1,Female,F,2020,2020,American Indian or Alaska Native,1002-5,28,232163,12.1
+,Census Region 1: Northeast,CENS-R1,Female,F,2020,2020,Asian or Pacific Islander,A-PI,268,2185692,12.3
+,Census Region 1: Northeast,CENS-R1,Female,F,2020,2020,Black or African American,2054-5,1506,4197476,35.9
+,Census Region 1: Northeast,CENS-R1,Female,F,2020,2020,White,2106-3,5321,21991019,24.2
+,Census Region 1: Northeast,CENS-R1,Male,M,1999,1999,American Indian or Alaska Native,1002-5,11,106050,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,1999,1999,Asian or Pacific Islander,A-PI,67,1102789,6.1
+,Census Region 1: Northeast,CENS-R1,Male,M,1999,1999,Black or African American,2054-5,800,3166928,25.3
+,Census Region 1: Northeast,CENS-R1,Male,M,1999,1999,White,2106-3,5156,21395912,24.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2000,2000,Asian or Pacific Islander,A-PI,69,1149155,6
+,Census Region 1: Northeast,CENS-R1,Male,M,2000,2000,Black or African American,2054-5,810,3199210,25.3
+,Census Region 1: Northeast,CENS-R1,Male,M,2000,2000,White,2106-3,5174,21435388,24.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2001,2001,American Indian or Alaska Native,1002-5,10,122483,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2001,2001,Asian or Pacific Islander,A-PI,95,1214154,7.8
+,Census Region 1: Northeast,CENS-R1,Male,M,2001,2001,Black or African American,2054-5,838,3241467,25.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2001,2001,White,2106-3,5247,21495030,24.4
+,Census Region 1: Northeast,CENS-R1,Male,M,2002,2002,American Indian or Alaska Native,1002-5,10,130665,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2002,2002,Asian or Pacific Islander,A-PI,71,1265374,5.6
+,Census Region 1: Northeast,CENS-R1,Male,M,2002,2002,Black or African American,2054-5,810,3273969,24.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2002,2002,White,2106-3,5389,21534456,25
+,Census Region 1: Northeast,CENS-R1,Male,M,2003,2003,American Indian or Alaska Native,1002-5,16,138817,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2003,2003,Asian or Pacific Islander,A-PI,107,1312835,8.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2003,2003,Black or African American,2054-5,861,3303059,26.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2003,2003,White,2106-3,5491,21560800,25.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2004,2004,American Indian or Alaska Native,1002-5,12,147047,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2004,2004,Asian or Pacific Islander,A-PI,96,1355599,7.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2004,2004,Black or African American,2054-5,910,3324658,27.4
+,Census Region 1: Northeast,CENS-R1,Male,M,2004,2004,White,2106-3,5349,21545115,24.8
+,Census Region 1: Northeast,CENS-R1,Male,M,2005,2005,American Indian or Alaska Native,1002-5,15,155229,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2005,2005,Asian or Pacific Islander,A-PI,104,1398559,7.4
+,Census Region 1: Northeast,CENS-R1,Male,M,2005,2005,Black or African American,2054-5,919,3347579,27.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2005,2005,White,2106-3,5482,21502430,25.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2006,2006,American Indian or Alaska Native,1002-5,15,163916,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2006,2006,Asian or Pacific Islander,A-PI,104,1440131,7.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2006,2006,Black or African American,2054-5,975,3372310,28.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2006,2006,White,2106-3,5228,21473276,24.3
+,Census Region 1: Northeast,CENS-R1,Male,M,2007,2007,Asian or Pacific Islander,A-PI,106,1484673,7.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2007,2007,Black or African American,2054-5,839,3401460,24.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2007,2007,White,2106-3,5175,21465654,24.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2008,2008,American Indian or Alaska Native,1002-5,13,183570,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2008,2008,Asian or Pacific Islander,A-PI,118,1533478,7.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2008,2008,Black or African American,2054-5,830,3437306,24.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2008,2008,White,2106-3,4875,21489933,22.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2009,2009,American Indian or Alaska Native,1002-5,16,194616,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2009,2009,Asian or Pacific Islander,A-PI,110,1579975,7
+,Census Region 1: Northeast,CENS-R1,Male,M,2009,2009,Black or African American,2054-5,839,3477179,24.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2009,2009,White,2106-3,4805,21522082,22.3
+,Census Region 1: Northeast,CENS-R1,Male,M,2010,2010,Asian or Pacific Islander,A-PI,130,1613624,8.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2010,2010,Black or African American,2054-5,854,3508921,24.3
+,Census Region 1: Northeast,CENS-R1,Male,M,2010,2010,White,2106-3,4899,21544283,22.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2011,2011,American Indian or Alaska Native,1002-5,16,205826,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2011,2011,Asian or Pacific Islander,A-PI,138,1658313,8.3
+,Census Region 1: Northeast,CENS-R1,Male,M,2011,2011,Black or African American,2054-5,906,3551546,25.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2011,2011,White,2106-3,5227,21583243,24.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2012,2012,American Indian or Alaska Native,1002-5,12,208633,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2012,2012,Asian or Pacific Islander,A-PI,162,1716864,9.4
+,Census Region 1: Northeast,CENS-R1,Male,M,2012,2012,Black or African American,2054-5,974,3594914,27.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2012,2012,White,2106-3,5338,21612526,24.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2013,2013,American Indian or Alaska Native,1002-5,19,212192,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2013,2013,Asian or Pacific Islander,A-PI,196,1768629,11.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2013,2013,Black or African American,2054-5,962,3638549,26.4
+,Census Region 1: Northeast,CENS-R1,Male,M,2013,2013,White,2106-3,5441,21624643,25.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2014,2014,American Indian or Alaska Native,1002-5,13,215071,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2014,2014,Asian or Pacific Islander,A-PI,157,1840271,8.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2014,2014,Black or African American,2054-5,1000,3693590,27.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2014,2014,White,2106-3,5614,21600423,26
+,Census Region 1: Northeast,CENS-R1,Male,M,2015,2015,American Indian or Alaska Native,1002-5,18,217577,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2015,2015,Asian or Pacific Islander,A-PI,193,1901596,10.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2015,2015,Black or African American,2054-5,1015,3732849,27.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2015,2015,White,2106-3,5716,21573234,26.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2016,2016,American Indian or Alaska Native,1002-5,19,219681,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2016,2016,Asian or Pacific Islander,A-PI,190,1922967,9.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2016,2016,Black or African American,2054-5,1005,3760839,26.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2016,2016,White,2106-3,5585,21499074,26
+,Census Region 1: Northeast,CENS-R1,Male,M,2017,2017,American Indian or Alaska Native,1002-5,22,222674,9.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2017,2017,Asian or Pacific Islander,A-PI,236,1987785,11.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2017,2017,Black or African American,2054-5,1106,3802988,29.1
+,Census Region 1: Northeast,CENS-R1,Male,M,2017,2017,White,2106-3,5706,21516859,26.5
+,Census Region 1: Northeast,CENS-R1,Male,M,2018,2018,American Indian or Alaska Native,1002-5,17,222704,Unreliable
+,Census Region 1: Northeast,CENS-R1,Male,M,2018,2018,Asian or Pacific Islander,A-PI,231,1974427,11.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2018,2018,Black or African American,2054-5,1108,3793231,29.2
+,Census Region 1: Northeast,CENS-R1,Male,M,2018,2018,White,2106-3,5959,21370068,27.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2019,2019,American Indian or Alaska Native,1002-5,20,224073,8.9
+,Census Region 1: Northeast,CENS-R1,Male,M,2019,2019,Asian or Pacific Islander,A-PI,234,1985563,11.8
+,Census Region 1: Northeast,CENS-R1,Male,M,2019,2019,Black or African American,2054-5,1141,3797834,30
+,Census Region 1: Northeast,CENS-R1,Male,M,2019,2019,White,2106-3,6117,21296205,28.7
+,Census Region 1: Northeast,CENS-R1,Male,M,2020,2020,American Indian or Alaska Native,1002-5,21,233293,9
+,Census Region 1: Northeast,CENS-R1,Male,M,2020,2020,Asian or Pacific Islander,A-PI,361,2032154,17.8
+,Census Region 1: Northeast,CENS-R1,Male,M,2020,2020,Black or African American,2054-5,1447,3831098,37.8
+,Census Region 1: Northeast,CENS-R1,Male,M,2020,2020,White,2106-3,6918,21146974,32.7
+,Census Region 2: Midwest,CENS-R2,Female,F,1999,1999,American Indian or Alaska Native,1002-5,82,222866,36.8
+,Census Region 2: Midwest,CENS-R2,Female,F,1999,1999,Asian or Pacific Islander,A-PI,52,641576,8.1
+,Census Region 2: Midwest,CENS-R2,Female,F,1999,1999,Black or African American,2054-5,1296,3516898,36.9
+,Census Region 2: Midwest,CENS-R2,Female,F,1999,1999,White,2106-3,7888,28333685,27.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2000,2000,American Indian or Alaska Native,1002-5,68,237939,28.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2000,2000,Asian or Pacific Islander,A-PI,47,671934,7
+,Census Region 2: Midwest,CENS-R2,Female,F,2000,2000,Black or African American,2054-5,1246,3552807,35.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2000,2000,White,2106-3,8076,28374658,28.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2001,2001,American Indian or Alaska Native,1002-5,74,243984,30.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2001,2001,Asian or Pacific Islander,A-PI,70,714072,9.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2001,2001,Black or African American,2054-5,1255,3600806,34.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2001,2001,White,2106-3,8134,28448776,28.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2002,2002,American Indian or Alaska Native,1002-5,86,250336,34.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2002,2002,Asian or Pacific Islander,A-PI,56,747516,7.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2002,2002,Black or African American,2054-5,1281,3633009,35.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2002,2002,White,2106-3,8197,28482808,28.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2003,2003,American Indian or Alaska Native,1002-5,76,256864,29.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2003,2003,Asian or Pacific Islander,A-PI,61,780745,7.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2003,2003,Black or African American,2054-5,1330,3664248,36.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2003,2003,White,2106-3,7863,28526093,27.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2004,2004,American Indian or Alaska Native,1002-5,87,263926,33
+,Census Region 2: Midwest,CENS-R2,Female,F,2004,2004,Asian or Pacific Islander,A-PI,69,812316,8.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2004,2004,Black or African American,2054-5,1289,3695789,34.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2004,2004,White,2106-3,7678,28565823,26.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2005,2005,American Indian or Alaska Native,1002-5,78,271719,28.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2005,2005,Asian or Pacific Islander,A-PI,58,844517,6.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2005,2005,Black or African American,2054-5,1209,3726081,32.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2005,2005,White,2106-3,8003,28594504,28
+,Census Region 2: Midwest,CENS-R2,Female,F,2006,2006,American Indian or Alaska Native,1002-5,80,279235,28.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2006,2006,Asian or Pacific Islander,A-PI,56,877310,6.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2006,2006,Black or African American,2054-5,1242,3762669,33
+,Census Region 2: Midwest,CENS-R2,Female,F,2006,2006,White,2106-3,7441,28644395,26
+,Census Region 2: Midwest,CENS-R2,Female,F,2007,2007,American Indian or Alaska Native,1002-5,82,287437,28.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2007,2007,Asian or Pacific Islander,A-PI,61,909800,6.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2007,2007,Black or African American,2054-5,1252,3797513,33
+,Census Region 2: Midwest,CENS-R2,Female,F,2007,2007,White,2106-3,7371,28698657,25.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2008,2008,American Indian or Alaska Native,1002-5,75,296190,25.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2008,2008,Asian or Pacific Islander,A-PI,69,940640,7.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2008,2008,Black or African American,2054-5,1095,3829146,28.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2008,2008,White,2106-3,7296,28737077,25.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2009,2009,American Indian or Alaska Native,1002-5,55,304234,18.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2009,2009,Asian or Pacific Islander,A-PI,76,971074,7.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2009,2009,Black or African American,2054-5,1121,3861033,29
+,Census Region 2: Midwest,CENS-R2,Female,F,2009,2009,White,2106-3,6773,28777666,23.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2010,2010,American Indian or Alaska Native,1002-5,91,311867,29.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2010,2010,Asian or Pacific Islander,A-PI,79,994034,7.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2010,2010,Black or African American,2054-5,1104,3886651,28.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2010,2010,White,2106-3,6692,28806889,23.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2011,2011,American Indian or Alaska Native,1002-5,96,316329,30.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2011,2011,Asian or Pacific Islander,A-PI,74,1024571,7.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2011,2011,Black or African American,2054-5,1156,3915912,29.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2011,2011,White,2106-3,7036,28842205,24.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2012,2012,American Indian or Alaska Native,1002-5,88,320075,27.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2012,2012,Asian or Pacific Islander,A-PI,86,1062348,8.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2012,2012,Black or African American,2054-5,1168,3937485,29.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2012,2012,White,2106-3,6932,28843207,24
+,Census Region 2: Midwest,CENS-R2,Female,F,2013,2013,American Indian or Alaska Native,1002-5,72,324915,22.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2013,2013,Asian or Pacific Islander,A-PI,89,1103917,8.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2013,2013,Black or African American,2054-5,1265,3960854,31.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2013,2013,White,2106-3,6999,28867540,24.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2014,2014,American Indian or Alaska Native,1002-5,90,329183,27.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2014,2014,Asian or Pacific Islander,A-PI,92,1157549,7.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2014,2014,Black or African American,2054-5,1215,3989286,30.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2014,2014,White,2106-3,6817,28874160,23.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2015,2015,American Indian or Alaska Native,1002-5,100,333246,30
+,Census Region 2: Midwest,CENS-R2,Female,F,2015,2015,Asian or Pacific Islander,A-PI,122,1208086,10.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2015,2015,Black or African American,2054-5,1212,4013744,30.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2015,2015,White,2106-3,7050,28857124,24.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2016,2016,American Indian or Alaska Native,1002-5,108,336810,32.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2016,2016,Asian or Pacific Islander,A-PI,104,1232746,8.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2016,2016,Black or African American,2054-5,1197,4030952,29.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2016,2016,White,2106-3,6673,28807242,23.2
+,Census Region 2: Midwest,CENS-R2,Female,F,2017,2017,American Indian or Alaska Native,1002-5,92,341216,27
+,Census Region 2: Midwest,CENS-R2,Female,F,2017,2017,Asian or Pacific Islander,A-PI,149,1282272,11.6
+,Census Region 2: Midwest,CENS-R2,Female,F,2017,2017,Black or African American,2054-5,1273,4069540,31.3
+,Census Region 2: Midwest,CENS-R2,Female,F,2017,2017,White,2106-3,7058,28826999,24.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2018,2018,American Indian or Alaska Native,1002-5,112,345268,32.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2018,2018,Asian or Pacific Islander,A-PI,148,1328590,11.1
+,Census Region 2: Midwest,CENS-R2,Female,F,2018,2018,Black or African American,2054-5,1272,4096940,31
+,Census Region 2: Midwest,CENS-R2,Female,F,2018,2018,White,2106-3,6879,28809769,23.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2019,2019,American Indian or Alaska Native,1002-5,104,349147,29.8
+,Census Region 2: Midwest,CENS-R2,Female,F,2019,2019,Asian or Pacific Islander,A-PI,116,1337999,8.7
+,Census Region 2: Midwest,CENS-R2,Female,F,2019,2019,Black or African American,2054-5,1192,4120271,28.9
+,Census Region 2: Midwest,CENS-R2,Female,F,2019,2019,White,2106-3,6917,28779887,24
+,Census Region 2: Midwest,CENS-R2,Female,F,2020,2020,American Indian or Alaska Native,1002-5,129,354373,36.4
+,Census Region 2: Midwest,CENS-R2,Female,F,2020,2020,Asian or Pacific Islander,A-PI,192,1371171,14
+,Census Region 2: Midwest,CENS-R2,Female,F,2020,2020,Black or African American,2054-5,1601,4158823,38.5
+,Census Region 2: Midwest,CENS-R2,Female,F,2020,2020,White,2106-3,7816,28697083,27.2
+,Census Region 2: Midwest,CENS-R2,Male,M,1999,1999,American Indian or Alaska Native,1002-5,72,220325,32.7
+,Census Region 2: Midwest,CENS-R2,Male,M,1999,1999,Asian or Pacific Islander,A-PI,34,614223,5.5
+,Census Region 2: Midwest,CENS-R2,Male,M,1999,1999,Black or African American,2054-5,912,3185056,28.6
+,Census Region 2: Midwest,CENS-R2,Male,M,1999,1999,White,2106-3,6702,27365432,24.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2000,2000,American Indian or Alaska Native,1002-5,45,235968,19.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2000,2000,Asian or Pacific Islander,A-PI,36,652040,5.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2000,2000,Black or African American,2054-5,854,3226933,26.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2000,2000,White,2106-3,6658,27440497,24.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2001,2001,American Indian or Alaska Native,1002-5,50,242070,20.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2001,2001,Asian or Pacific Islander,A-PI,36,689864,5.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2001,2001,Black or African American,2054-5,942,3277873,28.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2001,2001,White,2106-3,6936,27559086,25.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2002,2002,American Indian or Alaska Native,1002-5,60,248501,24.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2002,2002,Asian or Pacific Islander,A-PI,47,720681,6.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2002,2002,Black or African American,2054-5,978,3312752,29.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2002,2002,White,2106-3,7221,27622690,26.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2003,2003,American Indian or Alaska Native,1002-5,60,255257,23.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2003,2003,Asian or Pacific Islander,A-PI,53,751270,7.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2003,2003,Black or African American,2054-5,1011,3346277,30.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2003,2003,White,2106-3,7189,27696200,26
+,Census Region 2: Midwest,CENS-R2,Male,M,2004,2004,American Indian or Alaska Native,1002-5,74,262649,28.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2004,2004,Asian or Pacific Islander,A-PI,56,779610,7.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2004,2004,Black or African American,2054-5,1034,3380942,30.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2004,2004,White,2106-3,7147,27771250,25.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2005,2005,American Indian or Alaska Native,1002-5,85,269705,31.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2005,2005,Asian or Pacific Islander,A-PI,58,807827,7.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2005,2005,Black or African American,2054-5,1065,3414454,31.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2005,2005,White,2106-3,7247,27823065,26
+,Census Region 2: Midwest,CENS-R2,Male,M,2006,2006,American Indian or Alaska Native,1002-5,81,278227,29.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2006,2006,Asian or Pacific Islander,A-PI,61,836083,7.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2006,2006,Black or African American,2054-5,1121,3454017,32.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2006,2006,White,2106-3,7309,27896619,26.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2007,2007,American Indian or Alaska Native,1002-5,71,286363,24.8
+,Census Region 2: Midwest,CENS-R2,Male,M,2007,2007,Asian or Pacific Islander,A-PI,75,863872,8.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2007,2007,Black or African American,2054-5,1031,3488713,29.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2007,2007,White,2106-3,7098,27961334,25.4
+,Census Region 2: Midwest,CENS-R2,Male,M,2008,2008,American Indian or Alaska Native,1002-5,78,295598,26.4
+,Census Region 2: Midwest,CENS-R2,Male,M,2008,2008,Asian or Pacific Islander,A-PI,60,889010,6.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2008,2008,Black or African American,2054-5,1006,3521017,28.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2008,2008,White,2106-3,7111,28015257,25.4
+,Census Region 2: Midwest,CENS-R2,Male,M,2009,2009,American Indian or Alaska Native,1002-5,79,303970,26
+,Census Region 2: Midwest,CENS-R2,Male,M,2009,2009,Asian or Pacific Islander,A-PI,61,914564,6.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2009,2009,Black or African American,2054-5,1006,3553025,28.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2009,2009,White,2106-3,6986,28062871,24.9
+,Census Region 2: Midwest,CENS-R2,Male,M,2010,2010,American Indian or Alaska Native,1002-5,83,311481,26.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2010,2010,Asian or Pacific Islander,A-PI,77,933126,8.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2010,2010,Black or African American,2054-5,985,3579929,27.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2010,2010,White,2106-3,7042,28103024,25.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2011,2011,American Indian or Alaska Native,1002-5,86,315875,27.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2011,2011,Asian or Pacific Islander,A-PI,119,963627,12.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2011,2011,Black or African American,2054-5,1075,3611930,29.8
+,Census Region 2: Midwest,CENS-R2,Male,M,2011,2011,White,2106-3,7573,28168386,26.9
+,Census Region 2: Midwest,CENS-R2,Male,M,2012,2012,American Indian or Alaska Native,1002-5,89,320011,27.8
+,Census Region 2: Midwest,CENS-R2,Male,M,2012,2012,Asian or Pacific Islander,A-PI,87,1000123,8.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2012,2012,Black or African American,2054-5,1074,3637915,29.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2012,2012,White,2106-3,7352,28195133,26.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2013,2013,American Indian or Alaska Native,1002-5,75,325506,23
+,Census Region 2: Midwest,CENS-R2,Male,M,2013,2013,Asian or Pacific Islander,A-PI,90,1039108,8.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2013,2013,Black or African American,2054-5,1098,3667276,29.9
+,Census Region 2: Midwest,CENS-R2,Male,M,2013,2013,White,2106-3,7672,28258774,27.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2014,2014,American Indian or Alaska Native,1002-5,99,329241,30.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2014,2014,Asian or Pacific Islander,A-PI,102,1093651,9.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2014,2014,Black or African American,2054-5,1154,3702407,31.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2014,2014,White,2106-3,7950,28269631,28.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2015,2015,American Indian or Alaska Native,1002-5,102,333660,30.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2015,2015,Asian or Pacific Islander,A-PI,100,1143381,8.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2015,2015,Black or African American,2054-5,1220,3734275,32.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2015,2015,White,2106-3,8199,28283887,29
+,Census Region 2: Midwest,CENS-R2,Male,M,2016,2016,American Indian or Alaska Native,1002-5,108,336638,32.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2016,2016,Asian or Pacific Islander,A-PI,119,1173100,10.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2016,2016,Black or African American,2054-5,1298,3759819,34.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2016,2016,White,2106-3,8118,28264122,28.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2017,2017,American Indian or Alaska Native,1002-5,130,340914,38.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2017,2017,Asian or Pacific Islander,A-PI,120,1220750,9.8
+,Census Region 2: Midwest,CENS-R2,Male,M,2017,2017,Black or African American,2054-5,1282,3797106,33.8
+,Census Region 2: Midwest,CENS-R2,Male,M,2017,2017,White,2106-3,8631,28300554,30.5
+,Census Region 2: Midwest,CENS-R2,Male,M,2018,2018,American Indian or Alaska Native,1002-5,122,344572,35.4
+,Census Region 2: Midwest,CENS-R2,Male,M,2018,2018,Asian or Pacific Islander,A-PI,135,1268223,10.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2018,2018,Black or African American,2054-5,1326,3827337,34.6
+,Census Region 2: Midwest,CENS-R2,Male,M,2018,2018,White,2106-3,8831,28288045,31.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2019,2019,American Indian or Alaska Native,1002-5,104,348224,29.9
+,Census Region 2: Midwest,CENS-R2,Male,M,2019,2019,Asian or Pacific Islander,A-PI,158,1279895,12.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2019,2019,Black or African American,2054-5,1317,3850513,34.2
+,Census Region 2: Midwest,CENS-R2,Male,M,2019,2019,White,2106-3,9116,28263068,32.3
+,Census Region 2: Midwest,CENS-R2,Male,M,2020,2020,American Indian or Alaska Native,1002-5,162,353184,45.9
+,Census Region 2: Midwest,CENS-R2,Male,M,2020,2020,Asian or Pacific Islander,A-PI,180,1315472,13.7
+,Census Region 2: Midwest,CENS-R2,Male,M,2020,2020,Black or African American,2054-5,1754,3888360,45.1
+,Census Region 2: Midwest,CENS-R2,Male,M,2020,2020,White,2106-3,10165,28178278,36.1
+,Census Region 3: South,CENS-R3,Female,F,1999,1999,American Indian or Alaska Native,1002-5,126,394023,32
+,Census Region 3: South,CENS-R3,Female,F,1999,1999,Asian or Pacific Islander,A-PI,83,1056986,7.9
+,Census Region 3: South,CENS-R3,Female,F,1999,1999,Black or African American,2054-5,4202,10149389,41.4
+,Census Region 3: South,CENS-R3,Female,F,1999,1999,White,2106-3,9917,39079626,25.4
+,Census Region 3: South,CENS-R3,Female,F,2000,2000,American Indian or Alaska Native,1002-5,100,423189,23.6
+,Census Region 3: South,CENS-R3,Female,F,2000,2000,Asian or Pacific Islander,A-PI,67,1118559,6
+,Census Region 3: South,CENS-R3,Female,F,2000,2000,Black or African American,2054-5,4377,10263809,42.6
+,Census Region 3: South,CENS-R3,Female,F,2000,2000,White,2106-3,10213,39373943,25.9
+,Census Region 3: South,CENS-R3,Female,F,2001,2001,American Indian or Alaska Native,1002-5,101,440683,22.9
+,Census Region 3: South,CENS-R3,Female,F,2001,2001,Asian or Pacific Islander,A-PI,87,1206750,7.2
+,Census Region 3: South,CENS-R3,Female,F,2001,2001,Black or African American,2054-5,4288,10462813,41
+,Census Region 3: South,CENS-R3,Female,F,2001,2001,White,2106-3,10528,39862378,26.4
+,Census Region 3: South,CENS-R3,Female,F,2002,2002,American Indian or Alaska Native,1002-5,104,457867,22.7
+,Census Region 3: South,CENS-R3,Female,F,2002,2002,Asian or Pacific Islander,A-PI,91,1281153,7.1
+,Census Region 3: South,CENS-R3,Female,F,2002,2002,Black or African American,2054-5,4501,10624929,42.4
+,Census Region 3: South,CENS-R3,Female,F,2002,2002,White,2106-3,10550,40268872,26.2
+,Census Region 3: South,CENS-R3,Female,F,2003,2003,American Indian or Alaska Native,1002-5,131,475109,27.6
+,Census Region 3: South,CENS-R3,Female,F,2003,2003,Asian or Pacific Islander,A-PI,90,1355572,6.6
+,Census Region 3: South,CENS-R3,Female,F,2003,2003,Black or African American,2054-5,4360,10783022,40.4
+,Census Region 3: South,CENS-R3,Female,F,2003,2003,White,2106-3,10723,40674884,26.4
+,Census Region 3: South,CENS-R3,Female,F,2004,2004,American Indian or Alaska Native,1002-5,116,492893,23.5
+,Census Region 3: South,CENS-R3,Female,F,2004,2004,Asian or Pacific Islander,A-PI,90,1432729,6.3
+,Census Region 3: South,CENS-R3,Female,F,2004,2004,Black or African American,2054-5,4324,10963081,39.4
+,Census Region 3: South,CENS-R3,Female,F,2004,2004,White,2106-3,10324,41127455,25.1
+,Census Region 3: South,CENS-R3,Female,F,2005,2005,American Indian or Alaska Native,1002-5,115,512150,22.5
+,Census Region 3: South,CENS-R3,Female,F,2005,2005,Asian or Pacific Islander,A-PI,100,1516706,6.6
+,Census Region 3: South,CENS-R3,Female,F,2005,2005,Black or African American,2054-5,4282,11161289,38.4
+,Census Region 3: South,CENS-R3,Female,F,2005,2005,White,2106-3,10526,41637671,25.3
+,Census Region 3: South,CENS-R3,Female,F,2006,2006,American Indian or Alaska Native,1002-5,145,533335,27.2
+,Census Region 3: South,CENS-R3,Female,F,2006,2006,Asian or Pacific Islander,A-PI,112,1603277,7
+,Census Region 3: South,CENS-R3,Female,F,2006,2006,Black or African American,2054-5,4198,11357014,37
+,Census Region 3: South,CENS-R3,Female,F,2006,2006,White,2106-3,9776,42133778,23.2
+,Census Region 3: South,CENS-R3,Female,F,2007,2007,American Indian or Alaska Native,1002-5,117,555490,21.1
+,Census Region 3: South,CENS-R3,Female,F,2007,2007,Asian or Pacific Islander,A-PI,121,1688176,7.2
+,Census Region 3: South,CENS-R3,Female,F,2007,2007,Black or African American,2054-5,4029,11569303,34.8
+,Census Region 3: South,CENS-R3,Female,F,2007,2007,White,2106-3,9445,42633466,22.2
+,Census Region 3: South,CENS-R3,Female,F,2008,2008,American Indian or Alaska Native,1002-5,109,578912,18.8
+,Census Region 3: South,CENS-R3,Female,F,2008,2008,Asian or Pacific Islander,A-PI,133,1771328,7.5
+,Census Region 3: South,CENS-R3,Female,F,2008,2008,Black or African American,2054-5,3911,11770828,33.2
+,Census Region 3: South,CENS-R3,Female,F,2008,2008,White,2106-3,9662,43091462,22.4
+,Census Region 3: South,CENS-R3,Female,F,2009,2009,American Indian or Alaska Native,1002-5,104,602800,17.3
+,Census Region 3: South,CENS-R3,Female,F,2009,2009,Asian or Pacific Islander,A-PI,110,1850917,5.9
+,Census Region 3: South,CENS-R3,Female,F,2009,2009,Black or African American,2054-5,3829,11954538,32
+,Census Region 3: South,CENS-R3,Female,F,2009,2009,White,2106-3,9212,43497734,21.2
+,Census Region 3: South,CENS-R3,Female,F,2010,2010,American Indian or Alaska Native,1002-5,100,620677,16.1
+,Census Region 3: South,CENS-R3,Female,F,2010,2010,Asian or Pacific Islander,A-PI,125,1911212,6.5
+,Census Region 3: South,CENS-R3,Female,F,2010,2010,Black or African American,2054-5,3852,12088500,31.9
+,Census Region 3: South,CENS-R3,Female,F,2010,2010,White,2106-3,9086,43800674,20.7
+,Census Region 3: South,CENS-R3,Female,F,2011,2011,American Indian or Alaska Native,1002-5,115,635943,18.1
+,Census Region 3: South,CENS-R3,Female,F,2011,2011,Asian or Pacific Islander,A-PI,126,1988593,6.3
+,Census Region 3: South,CENS-R3,Female,F,2011,2011,Black or African American,2054-5,3971,12280323,32.3
+,Census Region 3: South,CENS-R3,Female,F,2011,2011,White,2106-3,9579,44245288,21.6
+,Census Region 3: South,CENS-R3,Female,F,2012,2012,American Indian or Alaska Native,1002-5,133,644688,20.6
+,Census Region 3: South,CENS-R3,Female,F,2012,2012,Asian or Pacific Islander,A-PI,140,2082604,6.7
+,Census Region 3: South,CENS-R3,Female,F,2012,2012,Black or African American,2054-5,4032,12447932,32.4
+,Census Region 3: South,CENS-R3,Female,F,2012,2012,White,2106-3,9528,44569882,21.4
+,Census Region 3: South,CENS-R3,Female,F,2013,2013,American Indian or Alaska Native,1002-5,130,653894,19.9
+,Census Region 3: South,CENS-R3,Female,F,2013,2013,Asian or Pacific Islander,A-PI,167,2170237,7.7
+,Census Region 3: South,CENS-R3,Female,F,2013,2013,Black or African American,2054-5,4073,12605822,32.3
+,Census Region 3: South,CENS-R3,Female,F,2013,2013,White,2106-3,9517,44876782,21.2
+,Census Region 3: South,CENS-R3,Female,F,2014,2014,American Indian or Alaska Native,1002-5,110,664896,16.5
+,Census Region 3: South,CENS-R3,Female,F,2014,2014,Asian or Pacific Islander,A-PI,188,2284603,8.2
+,Census Region 3: South,CENS-R3,Female,F,2014,2014,Black or African American,2054-5,4018,12795792,31.4
+,Census Region 3: South,CENS-R3,Female,F,2014,2014,White,2106-3,9406,45307867,20.8
+,Census Region 3: South,CENS-R3,Female,F,2015,2015,American Indian or Alaska Native,1002-5,147,675280,21.8
+,Census Region 3: South,CENS-R3,Female,F,2015,2015,Asian or Pacific Islander,A-PI,183,2395895,7.6
+,Census Region 3: South,CENS-R3,Female,F,2015,2015,Black or African American,2054-5,4018,12983655,30.9
+,Census Region 3: South,CENS-R3,Female,F,2015,2015,White,2106-3,9765,45728115,21.4
+,Census Region 3: South,CENS-R3,Female,F,2016,2016,American Indian or Alaska Native,1002-5,144,684398,21
+,Census Region 3: South,CENS-R3,Female,F,2016,2016,Asian or Pacific Islander,A-PI,191,2460320,7.8
+,Census Region 3: South,CENS-R3,Female,F,2016,2016,Black or African American,2054-5,4195,13145568,31.9
+,Census Region 3: South,CENS-R3,Female,F,2016,2016,White,2106-3,9899,46090639,21.5
+,Census Region 3: South,CENS-R3,Female,F,2017,2017,American Indian or Alaska Native,1002-5,148,694891,21.3
+,Census Region 3: South,CENS-R3,Female,F,2017,2017,Asian or Pacific Islander,A-PI,210,2564859,8.2
+,Census Region 3: South,CENS-R3,Female,F,2017,2017,Black or African American,2054-5,4346,13325992,32.6
+,Census Region 3: South,CENS-R3,Female,F,2017,2017,White,2106-3,9998,46456354,21.5
+,Census Region 3: South,CENS-R3,Female,F,2018,2018,American Indian or Alaska Native,1002-5,129,705255,18.3
+,Census Region 3: South,CENS-R3,Female,F,2018,2018,Asian or Pacific Islander,A-PI,217,2647352,8.2
+,Census Region 3: South,CENS-R3,Female,F,2018,2018,Black or African American,2054-5,4459,13473160,33.1
+,Census Region 3: South,CENS-R3,Female,F,2018,2018,White,2106-3,10159,46787319,21.7
+,Census Region 3: South,CENS-R3,Female,F,2019,2019,American Indian or Alaska Native,1002-5,130,715148,18.2
+,Census Region 3: South,CENS-R3,Female,F,2019,2019,Asian or Pacific Islander,A-PI,262,2683957,9.8
+,Census Region 3: South,CENS-R3,Female,F,2019,2019,Black or African American,2054-5,4619,13601693,34
+,Census Region 3: South,CENS-R3,Female,F,2019,2019,White,2106-3,10496,47049268,22.3
+,Census Region 3: South,CENS-R3,Female,F,2020,2020,American Indian or Alaska Native,1002-5,148,736482,20.1
+,Census Region 3: South,CENS-R3,Female,F,2020,2020,Asian or Pacific Islander,A-PI,274,2788595,9.8
+,Census Region 3: South,CENS-R3,Female,F,2020,2020,Black or African American,2054-5,5532,13794303,40.1
+,Census Region 3: South,CENS-R3,Female,F,2020,2020,White,2106-3,12196,47307204,25.8
+,Census Region 3: South,CENS-R3,Male,M,1999,1999,American Indian or Alaska Native,1002-5,87,393538,22.1
+,Census Region 3: South,CENS-R3,Male,M,1999,1999,Asian or Pacific Islander,A-PI,55,991721,5.5
+,Census Region 3: South,CENS-R3,Male,M,1999,1999,Black or African American,2054-5,2605,9126665,28.5
+,Census Region 3: South,CENS-R3,Male,M,1999,1999,White,2106-3,8738,37972512,23
+,Census Region 3: South,CENS-R3,Male,M,2000,2000,American Indian or Alaska Native,1002-5,71,425393,16.7
+,Census Region 3: South,CENS-R3,Male,M,2000,2000,Asian or Pacific Islander,A-PI,75,1054087,7.1
+,Census Region 3: South,CENS-R3,Male,M,2000,2000,Black or African American,2054-5,2685,9241192,29.1
+,Census Region 3: South,CENS-R3,Male,M,2000,2000,White,2106-3,9141,38336648,23.8
+,Census Region 3: South,CENS-R3,Male,M,2001,2001,American Indian or Alaska Native,1002-5,80,443518,18
+,Census Region 3: South,CENS-R3,Male,M,2001,2001,Asian or Pacific Islander,A-PI,83,1133923,7.3
+,Census Region 3: South,CENS-R3,Male,M,2001,2001,Black or African American,2054-5,2843,9431357,30.1
+,Census Region 3: South,CENS-R3,Male,M,2001,2001,White,2106-3,9526,38868153,24.5
+,Census Region 3: South,CENS-R3,Male,M,2002,2002,American Indian or Alaska Native,1002-5,98,461365,21.2
+,Census Region 3: South,CENS-R3,Male,M,2002,2002,Asian or Pacific Islander,A-PI,71,1201094,5.9
+,Census Region 3: South,CENS-R3,Male,M,2002,2002,Black or African American,2054-5,2949,9576640,30.8
+,Census Region 3: South,CENS-R3,Male,M,2002,2002,White,2106-3,9897,39278867,25.2
+,Census Region 3: South,CENS-R3,Male,M,2003,2003,American Indian or Alaska Native,1002-5,122,479031,25.5
+,Census Region 3: South,CENS-R3,Male,M,2003,2003,Asian or Pacific Islander,A-PI,77,1265642,6.1
+,Census Region 3: South,CENS-R3,Male,M,2003,2003,Black or African American,2054-5,3052,9707705,31.4
+,Census Region 3: South,CENS-R3,Male,M,2003,2003,White,2106-3,10380,39639223,26.2
+,Census Region 3: South,CENS-R3,Male,M,2004,2004,American Indian or Alaska Native,1002-5,107,498483,21.5
+,Census Region 3: South,CENS-R3,Male,M,2004,2004,Asian or Pacific Islander,A-PI,98,1337082,7.3
+,Census Region 3: South,CENS-R3,Male,M,2004,2004,Black or African American,2054-5,3111,9885956,31.5
+,Census Region 3: South,CENS-R3,Male,M,2004,2004,White,2106-3,10293,40146298,25.6
+,Census Region 3: South,CENS-R3,Male,M,2005,2005,American Indian or Alaska Native,1002-5,119,518746,22.9
+,Census Region 3: South,CENS-R3,Male,M,2005,2005,Asian or Pacific Islander,A-PI,106,1412064,7.5
+,Census Region 3: South,CENS-R3,Male,M,2005,2005,Black or African American,2054-5,3190,10064850,31.7
+,Census Region 3: South,CENS-R3,Male,M,2005,2005,White,2106-3,10644,40656295,26.2
+,Census Region 3: South,CENS-R3,Male,M,2006,2006,American Indian or Alaska Native,1002-5,94,541476,17.4
+,Census Region 3: South,CENS-R3,Male,M,2006,2006,Asian or Pacific Islander,A-PI,98,1489220,6.6
+,Census Region 3: South,CENS-R3,Male,M,2006,2006,Black or African American,2054-5,3139,10248882,30.6
+,Census Region 3: South,CENS-R3,Male,M,2006,2006,White,2106-3,10382,41169951,25.2
+,Census Region 3: South,CENS-R3,Male,M,2007,2007,American Indian or Alaska Native,1002-5,109,565660,19.3
+,Census Region 3: South,CENS-R3,Male,M,2007,2007,Asian or Pacific Islander,A-PI,119,1565362,7.6
+,Census Region 3: South,CENS-R3,Male,M,2007,2007,Black or African American,2054-5,3098,10442498,29.7
+,Census Region 3: South,CENS-R3,Male,M,2007,2007,White,2106-3,10336,41668787,24.8
+,Census Region 3: South,CENS-R3,Male,M,2008,2008,American Indian or Alaska Native,1002-5,107,590879,18.1
+,Census Region 3: South,CENS-R3,Male,M,2008,2008,Asian or Pacific Islander,A-PI,114,1638204,7
+,Census Region 3: South,CENS-R3,Male,M,2008,2008,Black or African American,2054-5,3093,10627285,29.1
+,Census Region 3: South,CENS-R3,Male,M,2008,2008,White,2106-3,10312,42116032,24.5
+,Census Region 3: South,CENS-R3,Male,M,2009,2009,American Indian or Alaska Native,1002-5,123,616711,19.9
+,Census Region 3: South,CENS-R3,Male,M,2009,2009,Asian or Pacific Islander,A-PI,135,1708229,7.9
+,Census Region 3: South,CENS-R3,Male,M,2009,2009,Black or African American,2054-5,3114,10799607,28.8
+,Census Region 3: South,CENS-R3,Male,M,2009,2009,White,2106-3,10370,42518079,24.4
+,Census Region 3: South,CENS-R3,Male,M,2010,2010,American Indian or Alaska Native,1002-5,110,637631,17.3
+,Census Region 3: South,CENS-R3,Male,M,2010,2010,Asian or Pacific Islander,A-PI,146,1761206,8.3
+,Census Region 3: South,CENS-R3,Male,M,2010,2010,Black or African American,2054-5,3282,10924335,30
+,Census Region 3: South,CENS-R3,Male,M,2010,2010,White,2106-3,10342,42811509,24.2
+,Census Region 3: South,CENS-R3,Male,M,2011,2011,American Indian or Alaska Native,1002-5,128,653173,19.6
+,Census Region 3: South,CENS-R3,Male,M,2011,2011,Asian or Pacific Islander,A-PI,135,1832820,7.4
+,Census Region 3: South,CENS-R3,Male,M,2011,2011,Black or African American,2054-5,3453,11117947,31.1
+,Census Region 3: South,CENS-R3,Male,M,2011,2011,White,2106-3,10956,43292649,25.3
+,Census Region 3: South,CENS-R3,Male,M,2012,2012,American Indian or Alaska Native,1002-5,137,661141,20.7
+,Census Region 3: South,CENS-R3,Male,M,2012,2012,Asian or Pacific Islander,A-PI,139,1917225,7.3
+,Census Region 3: South,CENS-R3,Male,M,2012,2012,Black or African American,2054-5,3465,11283254,30.7
+,Census Region 3: South,CENS-R3,Male,M,2012,2012,White,2106-3,11078,43650495,25.4
+,Census Region 3: South,CENS-R3,Male,M,2013,2013,American Indian or Alaska Native,1002-5,128,670851,19.1
+,Census Region 3: South,CENS-R3,Male,M,2013,2013,Asian or Pacific Islander,A-PI,180,2000788,9
+,Census Region 3: South,CENS-R3,Male,M,2013,2013,Black or African American,2054-5,3697,11427850,32.4
+,Census Region 3: South,CENS-R3,Male,M,2013,2013,White,2106-3,11369,43977229,25.9
+,Census Region 3: South,CENS-R3,Male,M,2014,2014,American Indian or Alaska Native,1002-5,139,680637,20.4
+,Census Region 3: South,CENS-R3,Male,M,2014,2014,Asian or Pacific Islander,A-PI,195,2106154,9.3
+,Census Region 3: South,CENS-R3,Male,M,2014,2014,Black or African American,2054-5,3650,11598321,31.5
+,Census Region 3: South,CENS-R3,Male,M,2014,2014,White,2106-3,11845,44333664,26.7
+,Census Region 3: South,CENS-R3,Male,M,2015,2015,American Indian or Alaska Native,1002-5,127,690718,18.4
+,Census Region 3: South,CENS-R3,Male,M,2015,2015,Asian or Pacific Islander,A-PI,198,2211581,9
+,Census Region 3: South,CENS-R3,Male,M,2015,2015,Black or African American,2054-5,3902,11765626,33.2
+,Census Region 3: South,CENS-R3,Male,M,2015,2015,White,2106-3,12465,44731977,27.9
+,Census Region 3: South,CENS-R3,Male,M,2016,2016,American Indian or Alaska Native,1002-5,144,698972,20.6
+,Census Region 3: South,CENS-R3,Male,M,2016,2016,Asian or Pacific Islander,A-PI,236,2269176,10.4
+,Census Region 3: South,CENS-R3,Male,M,2016,2016,Black or African American,2054-5,4010,11919849,33.6
+,Census Region 3: South,CENS-R3,Male,M,2016,2016,White,2106-3,12727,45050652,28.3
+,Census Region 3: South,CENS-R3,Male,M,2017,2017,American Indian or Alaska Native,1002-5,161,708745,22.7
+,Census Region 3: South,CENS-R3,Male,M,2017,2017,Asian or Pacific Islander,A-PI,301,2371029,12.7
+,Census Region 3: South,CENS-R3,Male,M,2017,2017,Black or African American,2054-5,4433,12086250,36.7
+,Census Region 3: South,CENS-R3,Male,M,2017,2017,White,2106-3,13421,45450504,29.5
+,Census Region 3: South,CENS-R3,Male,M,2018,2018,American Indian or Alaska Native,1002-5,142,718048,19.8
+,Census Region 3: South,CENS-R3,Male,M,2018,2018,Asian or Pacific Islander,A-PI,270,2445522,11
+,Census Region 3: South,CENS-R3,Male,M,2018,2018,Black or African American,2054-5,4686,12218852,38.4
+,Census Region 3: South,CENS-R3,Male,M,2018,2018,White,2106-3,13981,45758440,30.6
+,Census Region 3: South,CENS-R3,Male,M,2019,2019,American Indian or Alaska Native,1002-5,151,727190,20.8
+,Census Region 3: South,CENS-R3,Male,M,2019,2019,Asian or Pacific Islander,A-PI,297,2479910,12
+,Census Region 3: South,CENS-R3,Male,M,2019,2019,Black or African American,2054-5,4723,12322612,38.3
+,Census Region 3: South,CENS-R3,Male,M,2019,2019,White,2106-3,14768,46000670,32.1
+,Census Region 3: South,CENS-R3,Male,M,2020,2020,American Indian or Alaska Native,1002-5,203,748384,27.1
+,Census Region 3: South,CENS-R3,Male,M,2020,2020,Asian or Pacific Islander,A-PI,394,2585852,15.2
+,Census Region 3: South,CENS-R3,Male,M,2020,2020,Black or African American,2054-5,5979,12492217,47.9
+,Census Region 3: South,CENS-R3,Male,M,2020,2020,White,2106-3,16815,46209717,36.4
+,Census Region 4: West,CENS-R4,Female,F,1999,1999,American Indian or Alaska Native,1002-5,184,698268,26.4
+,Census Region 4: West,CENS-R4,Female,F,1999,1999,Asian or Pacific Islander,A-PI,418,3013055,13.9
+,Census Region 4: West,CENS-R4,Female,F,1999,1999,Black or African American,2054-5,576,1714096,33.6
+,Census Region 4: West,CENS-R4,Female,F,1999,1999,White,2106-3,5380,25844731,20.8
+,Census Region 4: West,CENS-R4,Female,F,2000,2000,American Indian or Alaska Native,1002-5,156,720332,21.7
+,Census Region 4: West,CENS-R4,Female,F,2000,2000,Asian or Pacific Islander,A-PI,365,3079759,11.9
+,Census Region 4: West,CENS-R4,Female,F,2000,2000,Black or African American,2054-5,506,1737044,29.1
+,Census Region 4: West,CENS-R4,Female,F,2000,2000,White,2106-3,5233,26117319,20
+,Census Region 4: West,CENS-R4,Female,F,2001,2001,American Indian or Alaska Native,1002-5,179,743711,24.1
+,Census Region 4: West,CENS-R4,Female,F,2001,2001,Asian or Pacific Islander,A-PI,413,3230743,12.8
+,Census Region 4: West,CENS-R4,Female,F,2001,2001,Black or African American,2054-5,512,1774723,28.8
+,Census Region 4: West,CENS-R4,Female,F,2001,2001,White,2106-3,5564,26505636,21
+,Census Region 4: West,CENS-R4,Female,F,2002,2002,American Indian or Alaska Native,1002-5,208,764069,27.2
+,Census Region 4: West,CENS-R4,Female,F,2002,2002,Asian or Pacific Islander,A-PI,470,3344859,14.1
+,Census Region 4: West,CENS-R4,Female,F,2002,2002,Black or African American,2054-5,577,1804137,32
+,Census Region 4: West,CENS-R4,Female,F,2002,2002,White,2106-3,5683,26795628,21.2
+,Census Region 4: West,CENS-R4,Female,F,2003,2003,American Indian or Alaska Native,1002-5,196,786730,24.9
+,Census Region 4: West,CENS-R4,Female,F,2003,2003,Asian or Pacific Islander,A-PI,493,3455703,14.3
+,Census Region 4: West,CENS-R4,Female,F,2003,2003,Black or African American,2054-5,587,1830515,32.1
+,Census Region 4: West,CENS-R4,Female,F,2003,2003,White,2106-3,5681,27070609,21
+,Census Region 4: West,CENS-R4,Female,F,2004,2004,American Indian or Alaska Native,1002-5,171,811406,21.1
+,Census Region 4: West,CENS-R4,Female,F,2004,2004,Asian or Pacific Islander,A-PI,500,3566257,14
+,Census Region 4: West,CENS-R4,Female,F,2004,2004,Black or African American,2054-5,539,1859165,29
+,Census Region 4: West,CENS-R4,Female,F,2004,2004,White,2106-3,5743,27335332,21
+,Census Region 4: West,CENS-R4,Female,F,2005,2005,American Indian or Alaska Native,1002-5,199,837837,23.8
+,Census Region 4: West,CENS-R4,Female,F,2005,2005,Asian or Pacific Islander,A-PI,557,3682165,15.1
+,Census Region 4: West,CENS-R4,Female,F,2005,2005,Black or African American,2054-5,591,1886419,31.3
+,Census Region 4: West,CENS-R4,Female,F,2005,2005,White,2106-3,6007,27601030,21.8
+,Census Region 4: West,CENS-R4,Female,F,2006,2006,American Indian or Alaska Native,1002-5,210,865460,24.3
+,Census Region 4: West,CENS-R4,Female,F,2006,2006,Asian or Pacific Islander,A-PI,540,3799315,14.2
+,Census Region 4: West,CENS-R4,Female,F,2006,2006,Black or African American,2054-5,542,1919428,28.2
+,Census Region 4: West,CENS-R4,Female,F,2006,2006,White,2106-3,5721,27884405,20.5
+,Census Region 4: West,CENS-R4,Female,F,2007,2007,American Indian or Alaska Native,1002-5,199,895260,22.2
+,Census Region 4: West,CENS-R4,Female,F,2007,2007,Asian or Pacific Islander,A-PI,587,3913449,15
+,Census Region 4: West,CENS-R4,Female,F,2007,2007,Black or African American,2054-5,624,1948732,32
+,Census Region 4: West,CENS-R4,Female,F,2007,2007,White,2106-3,5735,28140874,20.4
+,Census Region 4: West,CENS-R4,Female,F,2008,2008,American Indian or Alaska Native,1002-5,193,927988,20.8
+,Census Region 4: West,CENS-R4,Female,F,2008,2008,Asian or Pacific Islander,A-PI,601,4029786,14.9
+,Census Region 4: West,CENS-R4,Female,F,2008,2008,Black or African American,2054-5,558,1982687,28.1
+,Census Region 4: West,CENS-R4,Female,F,2008,2008,White,2106-3,5491,28416332,19.3
+,Census Region 4: West,CENS-R4,Female,F,2009,2009,American Indian or Alaska Native,1002-5,194,961362,20.2
+,Census Region 4: West,CENS-R4,Female,F,2009,2009,Asian or Pacific Islander,A-PI,594,4139994,14.3
+,Census Region 4: West,CENS-R4,Female,F,2009,2009,Black or African American,2054-5,537,2020480,26.6
+,Census Region 4: West,CENS-R4,Female,F,2009,2009,White,2106-3,5267,28662994,18.4
+,Census Region 4: West,CENS-R4,Female,F,2010,2010,American Indian or Alaska Native,1002-5,226,987157,22.9
+,Census Region 4: West,CENS-R4,Female,F,2010,2010,Asian or Pacific Islander,A-PI,594,4222902,14.1
+,Census Region 4: West,CENS-R4,Female,F,2010,2010,Black or African American,2054-5,543,2047026,26.5
+,Census Region 4: West,CENS-R4,Female,F,2010,2010,White,2106-3,5335,28838791,18.5
+,Census Region 4: West,CENS-R4,Female,F,2011,2011,American Indian or Alaska Native,1002-5,244,1005593,24.3
+,Census Region 4: West,CENS-R4,Female,F,2011,2011,Asian or Pacific Islander,A-PI,664,4315473,15.4
+,Census Region 4: West,CENS-R4,Female,F,2011,2011,Black or African American,2054-5,563,2089169,26.9
+,Census Region 4: West,CENS-R4,Female,F,2011,2011,White,2106-3,5685,29119029,19.5
+,Census Region 4: West,CENS-R4,Female,F,2012,2012,American Indian or Alaska Native,1002-5,238,1016247,23.4
+,Census Region 4: West,CENS-R4,Female,F,2012,2012,Asian or Pacific Islander,A-PI,697,4442261,15.7
+,Census Region 4: West,CENS-R4,Female,F,2012,2012,Black or African American,2054-5,565,2118403,26.7
+,Census Region 4: West,CENS-R4,Female,F,2012,2012,White,2106-3,5743,29308687,19.6
+,Census Region 4: West,CENS-R4,Female,F,2013,2013,American Indian or Alaska Native,1002-5,244,1028369,23.7
+,Census Region 4: West,CENS-R4,Female,F,2013,2013,Asian or Pacific Islander,A-PI,702,4539900,15.5
+,Census Region 4: West,CENS-R4,Female,F,2013,2013,Black or African American,2054-5,559,2146885,26
+,Census Region 4: West,CENS-R4,Female,F,2013,2013,White,2106-3,5711,29499062,19.4
+,Census Region 4: West,CENS-R4,Female,F,2014,2014,American Indian or Alaska Native,1002-5,235,1042618,22.5
+,Census Region 4: West,CENS-R4,Female,F,2014,2014,Asian or Pacific Islander,A-PI,722,4688420,15.4
+,Census Region 4: West,CENS-R4,Female,F,2014,2014,Black or African American,2054-5,606,2183663,27.8
+,Census Region 4: West,CENS-R4,Female,F,2014,2014,White,2106-3,5764,29799554,19.3
+,Census Region 4: West,CENS-R4,Female,F,2015,2015,American Indian or Alaska Native,1002-5,251,1055021,23.8
+,Census Region 4: West,CENS-R4,Female,F,2015,2015,Asian or Pacific Islander,A-PI,821,4821857,17
+,Census Region 4: West,CENS-R4,Female,F,2015,2015,Black or African American,2054-5,672,2216812,30.3
+,Census Region 4: West,CENS-R4,Female,F,2015,2015,White,2106-3,6057,30042053,20.2
+,Census Region 4: West,CENS-R4,Female,F,2016,2016,American Indian or Alaska Native,1002-5,257,1067960,24.1
+,Census Region 4: West,CENS-R4,Female,F,2016,2016,Asian or Pacific Islander,A-PI,850,4899779,17.3
+,Census Region 4: West,CENS-R4,Female,F,2016,2016,Black or African American,2054-5,656,2238896,29.3
+,Census Region 4: West,CENS-R4,Female,F,2016,2016,White,2106-3,6122,30246331,20.2
+,Census Region 4: West,CENS-R4,Female,F,2017,2017,American Indian or Alaska Native,1002-5,261,1079390,24.2
+,Census Region 4: West,CENS-R4,Female,F,2017,2017,Asian or Pacific Islander,A-PI,947,5048127,18.8
+,Census Region 4: West,CENS-R4,Female,F,2017,2017,Black or African American,2054-5,660,2269395,29.1
+,Census Region 4: West,CENS-R4,Female,F,2017,2017,White,2106-3,6214,30411749,20.4
+,Census Region 4: West,CENS-R4,Female,F,2018,2018,American Indian or Alaska Native,1002-5,252,1090885,23.1
+,Census Region 4: West,CENS-R4,Female,F,2018,2018,Asian or Pacific Islander,A-PI,961,5135774,18.7
+,Census Region 4: West,CENS-R4,Female,F,2018,2018,Black or African American,2054-5,691,2302845,30
+,Census Region 4: West,CENS-R4,Female,F,2018,2018,White,2106-3,6128,30564949,20
+,Census Region 4: West,CENS-R4,Female,F,2019,2019,American Indian or Alaska Native,1002-5,285,1099776,25.9
+,Census Region 4: West,CENS-R4,Female,F,2019,2019,Asian or Pacific Islander,A-PI,1067,5185552,20.6
+,Census Region 4: West,CENS-R4,Female,F,2019,2019,Black or African American,2054-5,682,2324939,29.3
+,Census Region 4: West,CENS-R4,Female,F,2019,2019,White,2106-3,6240,30655434,20.4
+,Census Region 4: West,CENS-R4,Female,F,2020,2020,American Indian or Alaska Native,1002-5,324,1122429,28.9
+,Census Region 4: West,CENS-R4,Female,F,2020,2020,Asian or Pacific Islander,A-PI,1171,5293774,22.1
+,Census Region 4: West,CENS-R4,Female,F,2020,2020,Black or African American,2054-5,892,2363751,37.7
+,Census Region 4: West,CENS-R4,Female,F,2020,2020,White,2106-3,7258,30633583,23.7
+,Census Region 4: West,CENS-R4,Male,M,1999,1999,American Indian or Alaska Native,1002-5,153,690868,22.1
+,Census Region 4: West,CENS-R4,Male,M,1999,1999,Asian or Pacific Islander,A-PI,367,2792394,13.1
+,Census Region 4: West,CENS-R4,Male,M,1999,1999,Black or African American,2054-5,442,1716442,25.8
+,Census Region 4: West,CENS-R4,Male,M,1999,1999,White,2106-3,4949,25962018,19.1
+,Census Region 4: West,CENS-R4,Male,M,2000,2000,American Indian or Alaska Native,1002-5,150,713171,21
+,Census Region 4: West,CENS-R4,Male,M,2000,2000,Asian or Pacific Islander,A-PI,367,2858108,12.8
+,Census Region 4: West,CENS-R4,Male,M,2000,2000,Black or African American,2054-5,422,1739694,24.3
+,Census Region 4: West,CENS-R4,Male,M,2000,2000,White,2106-3,5036,26232505,19.2
+,Census Region 4: West,CENS-R4,Male,M,2001,2001,American Indian or Alaska Native,1002-5,136,737090,18.5
+,Census Region 4: West,CENS-R4,Male,M,2001,2001,Asian or Pacific Islander,A-PI,385,2991540,12.9
+,Census Region 4: West,CENS-R4,Male,M,2001,2001,Black or African American,2054-5,426,1783554,23.9
+,Census Region 4: West,CENS-R4,Male,M,2001,2001,White,2106-3,5208,26660330,19.5
+,Census Region 4: West,CENS-R4,Male,M,2002,2002,American Indian or Alaska Native,1002-5,168,757651,22.2
+,Census Region 4: West,CENS-R4,Male,M,2002,2002,Asian or Pacific Islander,A-PI,459,3085599,14.9
+,Census Region 4: West,CENS-R4,Male,M,2002,2002,Black or African American,2054-5,470,1814337,25.9
+,Census Region 4: West,CENS-R4,Male,M,2002,2002,White,2106-3,5603,26945918,20.8
+,Census Region 4: West,CENS-R4,Male,M,2003,2003,American Indian or Alaska Native,1002-5,169,779792,21.7
+,Census Region 4: West,CENS-R4,Male,M,2003,2003,Asian or Pacific Islander,A-PI,470,3176482,14.8
+,Census Region 4: West,CENS-R4,Male,M,2003,2003,Black or African American,2054-5,501,1837279,27.3
+,Census Region 4: West,CENS-R4,Male,M,2003,2003,White,2106-3,5879,27179228,21.6
+,Census Region 4: West,CENS-R4,Male,M,2004,2004,American Indian or Alaska Native,1002-5,172,804506,21.4
+,Census Region 4: West,CENS-R4,Male,M,2004,2004,Asian or Pacific Islander,A-PI,458,3269217,14
+,Census Region 4: West,CENS-R4,Male,M,2004,2004,Black or African American,2054-5,510,1869913,27.3
+,Census Region 4: West,CENS-R4,Male,M,2004,2004,White,2106-3,5840,27449687,21.3
+,Census Region 4: West,CENS-R4,Male,M,2005,2005,American Indian or Alaska Native,1002-5,193,832031,23.2
+,Census Region 4: West,CENS-R4,Male,M,2005,2005,Asian or Pacific Islander,A-PI,500,3365841,14.9
+,Census Region 4: West,CENS-R4,Male,M,2005,2005,Black or African American,2054-5,556,1902816,29.2
+,Census Region 4: West,CENS-R4,Male,M,2005,2005,White,2106-3,6255,27725587,22.6
+,Census Region 4: West,CENS-R4,Male,M,2006,2006,American Indian or Alaska Native,1002-5,172,860771,20
+,Census Region 4: West,CENS-R4,Male,M,2006,2006,Asian or Pacific Islander,A-PI,549,3465735,15.8
+,Census Region 4: West,CENS-R4,Male,M,2006,2006,Black or African American,2054-5,537,1941430,27.7
+,Census Region 4: West,CENS-R4,Male,M,2006,2006,White,2106-3,6141,28015221,21.9
+,Census Region 4: West,CENS-R4,Male,M,2007,2007,American Indian or Alaska Native,1002-5,195,892547,21.8
+,Census Region 4: West,CENS-R4,Male,M,2007,2007,Asian or Pacific Islander,A-PI,560,3560582,15.7
+,Census Region 4: West,CENS-R4,Male,M,2007,2007,Black or African American,2054-5,525,1976009,26.6
+,Census Region 4: West,CENS-R4,Male,M,2007,2007,White,2106-3,6135,28267961,21.7
+,Census Region 4: West,CENS-R4,Male,M,2008,2008,American Indian or Alaska Native,1002-5,190,927329,20.5
+,Census Region 4: West,CENS-R4,Male,M,2008,2008,Asian or Pacific Islander,A-PI,611,3660465,16.7
+,Census Region 4: West,CENS-R4,Male,M,2008,2008,Black or African American,2054-5,528,2017335,26.2
+,Census Region 4: West,CENS-R4,Male,M,2008,2008,White,2106-3,6300,28547253,22.1
+,Census Region 4: West,CENS-R4,Male,M,2009,2009,American Indian or Alaska Native,1002-5,200,963522,20.8
+,Census Region 4: West,CENS-R4,Male,M,2009,2009,Asian or Pacific Islander,A-PI,637,3755097,17
+,Census Region 4: West,CENS-R4,Male,M,2009,2009,Black or African American,2054-5,529,2058123,25.7
+,Census Region 4: West,CENS-R4,Male,M,2009,2009,White,2106-3,6044,28779804,21
+,Census Region 4: West,CENS-R4,Male,M,2010,2010,American Indian or Alaska Native,1002-5,230,990962,23.2
+,Census Region 4: West,CENS-R4,Male,M,2010,2010,Asian or Pacific Islander,A-PI,579,3826535,15.1
+,Census Region 4: West,CENS-R4,Male,M,2010,2010,Black or African American,2054-5,519,2087507,24.9
+,Census Region 4: West,CENS-R4,Male,M,2010,2010,White,2106-3,6203,28944673,21.4
+,Census Region 4: West,CENS-R4,Male,M,2011,2011,American Indian or Alaska Native,1002-5,223,1011170,22.1
+,Census Region 4: West,CENS-R4,Male,M,2011,2011,Asian or Pacific Islander,A-PI,648,3910908,16.6
+,Census Region 4: West,CENS-R4,Male,M,2011,2011,Black or African American,2054-5,614,2136549,28.7
+,Census Region 4: West,CENS-R4,Male,M,2011,2011,White,2106-3,7027,29276857,24
+,Census Region 4: West,CENS-R4,Male,M,2012,2012,American Indian or Alaska Native,1002-5,276,1020631,27
+,Census Region 4: West,CENS-R4,Male,M,2012,2012,Asian or Pacific Islander,A-PI,705,4024219,17.5
+,Census Region 4: West,CENS-R4,Male,M,2012,2012,Black or African American,2054-5,632,2170058,29.1
+,Census Region 4: West,CENS-R4,Male,M,2012,2012,White,2106-3,7064,29478925,24
+,Census Region 4: West,CENS-R4,Male,M,2013,2013,American Indian or Alaska Native,1002-5,268,1031933,26
+,Census Region 4: West,CENS-R4,Male,M,2013,2013,Asian or Pacific Islander,A-PI,762,4108574,18.5
+,Census Region 4: West,CENS-R4,Male,M,2013,2013,Black or African American,2054-5,621,2201066,28.2
+,Census Region 4: West,CENS-R4,Male,M,2013,2013,White,2106-3,7263,29698634,24.5
+,Census Region 4: West,CENS-R4,Male,M,2014,2014,American Indian or Alaska Native,1002-5,253,1044024,24.2
+,Census Region 4: West,CENS-R4,Male,M,2014,2014,Asian or Pacific Islander,A-PI,781,4244146,18.4
+,Census Region 4: West,CENS-R4,Male,M,2014,2014,Black or African American,2054-5,648,2246333,28.8
+,Census Region 4: West,CENS-R4,Male,M,2014,2014,White,2106-3,7511,29938923,25.1
+,Census Region 4: West,CENS-R4,Male,M,2015,2015,American Indian or Alaska Native,1002-5,326,1056635,30.9
+,Census Region 4: West,CENS-R4,Male,M,2015,2015,Asian or Pacific Islander,A-PI,851,4365894,19.5
+,Census Region 4: West,CENS-R4,Male,M,2015,2015,Black or African American,2054-5,772,2285317,33.8
+,Census Region 4: West,CENS-R4,Male,M,2015,2015,White,2106-3,7919,30201090,26.2
+,Census Region 4: West,CENS-R4,Male,M,2016,2016,American Indian or Alaska Native,1002-5,334,1067748,31.3
+,Census Region 4: West,CENS-R4,Male,M,2016,2016,Asian or Pacific Islander,A-PI,898,4448161,20.2
+,Census Region 4: West,CENS-R4,Male,M,2016,2016,Black or African American,2054-5,774,2303381,33.6
+,Census Region 4: West,CENS-R4,Male,M,2016,2016,White,2106-3,8198,30384744,27
+,Census Region 4: West,CENS-R4,Male,M,2017,2017,American Indian or Alaska Native,1002-5,345,1079984,31.9
+,Census Region 4: West,CENS-R4,Male,M,2017,2017,Asian or Pacific Islander,A-PI,982,4580721,21.4
+,Census Region 4: West,CENS-R4,Male,M,2017,2017,Black or African American,2054-5,790,2339092,33.8
+,Census Region 4: West,CENS-R4,Male,M,2017,2017,White,2106-3,8636,30602164,28.2
+,Census Region 4: West,CENS-R4,Male,M,2018,2018,American Indian or Alaska Native,1002-5,346,1090666,31.7
+,Census Region 4: West,CENS-R4,Male,M,2018,2018,Asian or Pacific Islander,A-PI,1091,4668065,23.4
+,Census Region 4: West,CENS-R4,Male,M,2018,2018,Black or African American,2054-5,815,2377824,34.3
+,Census Region 4: West,CENS-R4,Male,M,2018,2018,White,2106-3,8491,30762655,27.6
+,Census Region 4: West,CENS-R4,Male,M,2019,2019,American Indian or Alaska Native,1002-5,339,1098569,30.9
+,Census Region 4: West,CENS-R4,Male,M,2019,2019,Asian or Pacific Islander,A-PI,1102,4719024,23.4
+,Census Region 4: West,CENS-R4,Male,M,2019,2019,Black or African American,2054-5,858,2407859,35.6
+,Census Region 4: West,CENS-R4,Male,M,2019,2019,White,2106-3,9067,30856115,29.4
+,Census Region 4: West,CENS-R4,Male,M,2020,2020,American Indian or Alaska Native,1002-5,415,1119177,37.1
+,Census Region 4: West,CENS-R4,Male,M,2020,2020,Asian or Pacific Islander,A-PI,1372,4841027,28.3
+,Census Region 4: West,CENS-R4,Male,M,2020,2020,Black or African American,2054-5,1057,2455217,43.1
+,Census Region 4: West,CENS-R4,Male,M,2020,2020,White,2106-3,10289,30825798,33.4
+---,,,,,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2020",,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,
+ICD-10 Codes: E10-E14 (Diabetes mellitus),,,,,,,,,,,
+Group By: Census Region; Sex; Year; Race,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,
+Show Zero Values: False,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,,
+---,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,,,
+---,,,,,,,,,,,
+"Query Date: Feb 26, 2026 9:13:51 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,,,,,
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",,,,,,,,,,,
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 26, 2026 9:13:51 PM",,,,,,,,,,,
+---,,,,,,,,,,,
+Messages:,,,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,,
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,,
+---,,,,,,,,,,,
+Caveats:,,,,,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.,,,,,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies.,,,,,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies.,,,,,,,,,,,
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,,,,,,
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,,,,,
+7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,,,,,,,,,,,
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",,,,,,,,,,,
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,,,,,,,,,,,
+"are inconsistent between these two data sources, death rates will be biased. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.,,,,,,,,,,,
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,,,,,
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",,,,,,,,,,,
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",,,,,,,,,,,
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",,,,,,,,,,,
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,,,
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",,,,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",,,,,,,,,,,
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",,,,,,,,,,,
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",,,,,,,,,,,
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",,,,,,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",,,,,,,,,,,
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",,,,,,,,,,,
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July",,,,,,,,,,,
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010",,,,,,,,,,,
+are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident,,,,,,,,,,,
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population",,,,,,,,,,,
+figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1,,,,,,,,,,,
+estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population,,,,,,,,,,,
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",,,,,,,,,,,
+were available at the time of release.,,,,,,,,,,,
+9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,,,,,,
