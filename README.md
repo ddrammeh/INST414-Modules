@@ -1,1 +1,1 @@
-# INST414-Module-1
+# INST414 Modules
